@@ -1,5 +1,5 @@
 # Description
-A bot that is simple but yet effective.
+A twitch bot that is simple but yet effective.
 
 # Features
 * Custom Anti-Username System!
